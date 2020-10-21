@@ -1,0 +1,28 @@
+header{
+    background-color: #BB7944;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 42pt;
+    text-transform: uppercase;
+    padding: 20px 0 20px 0;
+    font-family: Alice, sans-serif;
+}
+
+body, html{
+    font-family: sans-serif;
+    height: 100%;
+    margin: 0;
+}
+
+#menu{
+    display: block;
+    text-align: center;
+    padding: 10px 0;
+    background-color: #E0D6C3;
+}
+
+#menu a{
+    display: inline-block;
+    border: solid 1pt;
+    padding: 10px;
+}
